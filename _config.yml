@@ -1,0 +1,78 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Clippings Geeks
+tagline:             'Redesigning the design industry'
+description:         'Engineering & design blog sharing insights about building Clippings.com'
+url:                 http://clippings.github.io/geeks
+github:              https://github.com/clippings
+clippings:           https://clippings.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Clippings development team
+  url:               https://clippings.com
+  email:             hello@clippings.com
+
+author_ids: [ivank, hkdobrev, dkyosev, svet, diana]
+authors:
+  ivank:
+    display_name: Ivan Kerin
+    first_name: Ivan
+    gravatar: f709b9eba4d12fd7aa260177a8862594
+    email: ivank@clippings.com
+    web: https://medium.com/@ivankerin
+    twitter:
+    github: ivank
+    bio:
+    url_more:
+  hkdobrev:
+    display_name: Haralan Dobrev
+    first_name: Harry
+    gravatar: b823b2c0a620c82547e71f84cfa15682
+    email: harry@clippings.com
+    web: http://hkdobrev.com/
+    twitter: hkdobrev
+    github: hkdobrev
+    bio:
+    url_more:
+  dkyosev:
+    display_name: Danail Kyosev
+    first_name: Danail
+    gravatar: de9197859bbccb1cc2bb8eeebc81f311
+    email: danail@clippings.com
+    web: https://github.com/dkyosev
+    twitter:
+    github: dkyosev
+    bio:
+    url_more:
+  svet:
+    display_name: Svetoslav Nikolov
+    first_name: Svet
+    gravatar: afd76fd7660caeb190d958e10c651ccf
+    email: svet@clippings.com
+    web: https://svetvn.carbonmade.com/
+    twitter:
+    github:
+    bio:
+    url_more:
+  diana:
+    display_name: Diana Peycheva
+    first_name: Diana
+    gravatar: c0ce4353c37d24fb4c93b4835f8d9bf2
+    email: diana@clippings.com
+    web: http://bg.linkedin.com/pub/diana-peycheva/4/567/a27
+    twitter:
+    github:
+    bio:
+    url_more:
