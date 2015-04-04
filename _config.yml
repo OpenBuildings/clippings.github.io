@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Clippings Geeks
 tagline:             'Redesigning the design industry'
 description:         'Engineering & design blog sharing insights about building Clippings.com'
-url:                 http://clippings.github.io/geeks
+url:                 http://clippings.github.io
 github:              https://github.com/clippings
 clippings:           https://clippings.com
 baseurl:             /
