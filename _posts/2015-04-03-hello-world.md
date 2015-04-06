@@ -5,4 +5,4 @@ author: hkdobrev
 published: true
 ---
 
-Test for hellow world
+Test for hello world
