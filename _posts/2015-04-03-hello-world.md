@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hello World!
+title: "Hello World!"
 author: hkdobrev
+published: true
 ---
 
-Hello world!
+Test for hellow world
