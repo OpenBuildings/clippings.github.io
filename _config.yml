@@ -10,29 +10,19 @@ permalink:           pretty
 title:               Clippings Geeks
 tagline:             'Redesigning the design industry'
 description:         'Engineering & design blog sharing insights about building Clippings.com'
-url:                 http://clippings.github.io
+url:                 https://clippings.github.io
 github:              https://github.com/clippings
 clippings:           https://clippings.com
 paginate:            5
 
 # About/contact
 author:
-  name:              Clippings development team
+  name:              Clippings development & design team
   url:               https://clippings.com
   email:             hello@clippings.com
 
-author_ids: [ivank, hkdobrev, dkyosev, svet, diana]
+author_ids: [hkdobrev, dkyosev, phgeorgiev, thomdorkings]
 authors:
-  ivank:
-    display_name: Ivan Kerin
-    first_name: Ivan
-    gravatar: f709b9eba4d12fd7aa260177a8862594
-    email: ivank@clippings.com
-    web: https://medium.com/@ivankerin
-    twitter:
-    github: ivank
-    bio:
-    url_more:
   hkdobrev:
     display_name: Haralan Dobrev
     first_name: Harry
@@ -53,13 +43,23 @@ authors:
     github: dkyosev
     bio:
     url_more:
-  svet:
-    display_name: Svetoslav Nikolov
-    first_name: Svet
-    gravatar: afd76fd7660caeb190d958e10c651ccf
-    email: svet@clippings.com
-    web: https://svetvn.carbonmade.com/
+  phgeorgiev:
+    display_name: Philip Georgiev
+    first_name: Philip
+    gravatar: e542dc83a92e46af8d338f4261e89ccc
+    email: philip@clippings.com
+    web: https://github.com/phgeorgiev
     twitter:
-    github:
+    github: phgeorgiev
+    bio:
+    url_more:
+  thomdorkings:
+    display_name: Thom Dorkings
+    first_name: Thom
+    gravatar:
+    email: thom@clippings.com
+    web: http://thomdorkings.com/
+    twitter:
+    github: thomdorkings
     bio:
     url_more:
