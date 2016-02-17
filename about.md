@@ -7,8 +7,7 @@ Read more about the [Clippings.com platform and philosophy](https://clippings.co
 
 # Setup
 Some fun facts about the setup of this project include:
-- Built for [Jekyll](http://jekyllrb.com) with the [Lanyon theme](http://lanyon.getpoole.com)
-- Built for [Jekyll](http://jekyllrb.com)
+- Built with [Jekyll](http://jekyllrb.com) and the [Lanyon theme](http://lanyon.getpoole.com)
 - Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 - Coded with [Sublime Text](http://sublimetext.com), an amazing code editor
 
