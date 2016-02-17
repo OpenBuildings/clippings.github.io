@@ -31,7 +31,7 @@ We realise everybody has their strong and weak sides and we would help you learn
 
 We are a small, but effective team working with tools and techniques like continuous integration, automated unit tests, Scrum and code reviews. The developers are really close to the product decisions working directly with the CEO and the creative director to plan our work.
 
-We open-source a lot of our work and we try to help the community. We already have some popular packages and we've supported some projects related to Postmark, Algolia, MailChimp, Guzzle, OmniPay and more. You could see some of our open-source repositories at https://github.com/clippings and https://github.com/openbuildings.
+We open-source a lot of our work and we try to help the community. We already have some popular packages and we've supported some projects related to Postmark, Algolia, MailChimp, Guzzle, OmniPay and more. You could see some of our open-source repositories at [https://github.com/clippings](https://github.com/clippings) and [https://github.com/openbuildings](https://github.com/openbuildings).
 
 ## What kind of people we are looking for?
 
