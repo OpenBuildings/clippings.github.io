@@ -16,4 +16,5 @@ tagline:     'Redesigning the design industry'
 description: 'Engineering &amp; design blog sharing insights about building Clippings.com'
 url:         https://clippings.github.io
 github:      https://github.com/clippings
-clippings:   https://clippings.com
+website:     https://clippings.com
+websiteName: Clippings.com
