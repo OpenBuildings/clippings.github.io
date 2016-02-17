@@ -15,7 +15,7 @@ Here are a few reasons why you would want to join our team:
 
 Our mission is to redesign the furniture design industry. This sounds quite bold as most of the industry is operating offline and quite slow to change, but we see this as an opportunity.
 
-We are fulfilling our vision by creating a platform to directly connect design brands and individual designers with their end customers - architects, interior designers and design-conscious consumers. We skip the chain of retailers, distributors and dealers. Empowering designers we support moving the industry further.
+We are fulfilling our vision by creating a platform to directly connect design brands and individual designers with their end customers - architects, interior designers and design-conscious consumers. We skip the chain of retailers, distributors and dealers. By empowering designers we support moving the industry further.
 
 We are a small startup, but aim high and grow quickly. We've [recently raised £850k via a crowdfunding campaign among the design community](https://www.crowdcube.com/clippings) to help us with our mission to redesign the design industry.
 
@@ -45,12 +45,12 @@ We are based in [Sofia, Bulgaria](https://goo.gl/maps/MPu3nmG6AbB2) and [London,
 
 ## How to apply?
 
-Shoot us an email to [jobs@clippings.com](mailto:jobs@clippings.com?subject=Working+at+Clippings.com). Don't forget to tell us a bit about yourself and send us some of your projects. Ideally you could send us links to your GitHub, StackOverflow, LinkedIn and other relevant profiles.
+Shoot us an email at [jobs@clippings.com](mailto:jobs@clippings.com?subject=Working+at+Clippings.com). Don't forget to tell us a bit about yourself and send us some of your projects. Ideally you could send us links to your GitHub, StackOverflow, LinkedIn and other relevant profiles.
 
 Here are a couple of challenges we've prepared which you could try to do yourself, publish as your own open-source repositories and send them to us for review and feedback:
 
   - [Algolia.com CLI client as a npm package](https://github.com/clippings/challenge-algolia)
-  - [Postmark plugin in PHP as a Composer package](https://github.com/clippings/challenge-1)
+  - [Swift Mailer plugin in PHP as a Composer package](https://github.com/clippings/challenge-1)
 
 ---
 
