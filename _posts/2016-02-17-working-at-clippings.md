@@ -2,6 +2,7 @@
 layout: post
 title: "Working at Clippings.com"
 author: hkdobrev
+date: 2016-02-17 15:40:00 +0200
 ---
 
 We are always looking for new teams members to join our team of developers and help us with our growth. If you are a developer looking for new challenges, please read along.
