@@ -5,62 +5,16 @@ gems:        [jekyll-paginate]
 permalink:   /:title
 
 # Setup
+baseurl:     ""
+paginate:    5
+exclude:     [Gemfile, Gemfile.lock, README.md, LICENSE.md, vendor]
+timezone:    Europe/London
+
+# Site variables
 title:       Clippings Geeks
 tagline:     'Redesigning the design industry'
 description: 'Engineering &amp; design blog sharing insights about building Clippings.com'
 url:         https://clippings.github.io
 github:      https://github.com/clippings
-clippings:   https://clippings.com
-baseurl:     ""
-paginate:    5
-exclude:     ["Gemfile", "Gemfile.lock", "README.md", "LICENSE.md"]
-timezone:    Europe/London
-
-# About/contact
-author:
-  name:      Clippings development &amp; design team
-  url:       https://clippings.com
-  email:     hello@clippings.com
-
-author_ids: [hkdobrev, dkyosev, phgeorgiev, thomdorkings]
-authors:
-  hkdobrev:
-    display_name: Haralan Dobrev
-    first_name: Harry
-    gravatar: b823b2c0a620c82547e71f84cfa15682
-    email: harry@clippings.com
-    web: http://hkdobrev.com/
-    twitter: hkdobrev
-    github: hkdobrev
-    bio:
-    url_more:
-  dkyosev:
-    display_name: Danail Kyosev
-    first_name: Danail
-    gravatar: de9197859bbccb1cc2bb8eeebc81f311
-    email: danail@clippings.com
-    web: https://github.com/dkyosev
-    twitter:
-    github: dkyosev
-    bio:
-    url_more:
-  phgeorgiev:
-    display_name: Philip Georgiev
-    first_name: Philip
-    gravatar: e542dc83a92e46af8d338f4261e89ccc
-    email: philip@clippings.com
-    web: https://github.com/phgeorgiev
-    twitter:
-    github: phgeorgiev
-    bio:
-    url_more:
-  thomdorkings:
-    display_name: Thom Dorkings
-    first_name: Thom
-    gravatar:
-    email: thom@clippings.com
-    web: http://thomdorkings.com/
-    twitter:
-    github: thomdorkings
-    bio:
-    url_more:
+website:     https://clippings.com
+websiteName: Clippings.com
