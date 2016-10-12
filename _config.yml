@@ -8,7 +8,7 @@ permalink:   /:title
 baseurl:     ""
 paginate:    5
 exclude:     [Gemfile, Gemfile.lock, README.md, LICENSE.md, vendor, clippings.github.io.sublime-project]
-timezone:    Europe/London
+timezone:    Europe/Sofia
 
 # Site variables
 title:       Clippings Geeks
