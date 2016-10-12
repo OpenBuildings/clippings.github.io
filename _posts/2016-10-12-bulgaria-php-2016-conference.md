@@ -2,6 +2,7 @@
 layout: post
 title: Bulgaria PHP 2016
 author: hkdobrev
+date: 2016-10-12 16:50:00 +0200
 ---
 
 The second edition of the Bulgaria PHP conference happened the last weekend and it was a blast! The whole dev team from Clippings.com visited the conference and we've enjoyed the great talks, networking, games and the spirit of the PHP community.
