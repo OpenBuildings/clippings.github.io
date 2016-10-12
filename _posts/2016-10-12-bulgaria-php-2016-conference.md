@@ -35,11 +35,10 @@ Videos of all talks are coming in about a month and I'm eager to watch everythin
 And finally here's the Clippings.com dev team at the conference. From left to right: Evstati, Harry, Danail, Philip and Zdravko.
 ![Clippings dev team at the conference](https://lh3.googleusercontent.com/fG6-MsCEhVrfrmVQFVe-ySY9-ayrLdb_bVqPltSaDOUZuM3sXzI_byxQupg8xzAHmfIUQituJGX-4aX7ft1LZY4wZPC0GfrGIrcREjZyGe4ArNBF9aMCHrpJpy4wtQlcVEqq6BFkLQem_lq6otql4ZBBPnpCpAc3jY2gvQh1GdO4xG4D3bs3lXZX3LXNdhtriAtcUvujwInTou2nA9ef-AfhlT0Pz5N00oQPa4BJ6S1TdvvfL7AGEs8m37bJj8qcKeZV8rCqmO2eK0VR9uC5Mphj3OdHkx4FfYZvCydIVIhwI6ryJxXuMBf1eUGgYQCWjuXDgCXazvsXvjWZ6O7BhY8c3nAbYfk_GhT4IQxHkrE25S9FFqifGw0TN6f3pdw1D9Su-NRi7qPWFg2lXearOP2IxU4ibfy5SMSYHqwhnZvlGTo9gtVjQGmzviral76nyIlqwTIwJSICgAJN4v3Yh3Lpdo3Yj6jFZII5U763EnA25h6aXkYSD3ElutDqBwYQKOMTG8I_DLCVvcK0qpGw_I53jIQGtokMSmo2pz0Bhtd_X9yM6PsxODZv4enc0e73GqjU0sYuobhdxPLmuDxZMeP88-nuNc8LkWfqaGAaKbv9pZcXMA=w2000-h1500-no)
 
-
 Sincere thanks to all of the organisers who made this even possible!
 
 If you haven't attended please make sure to attend next year and to participate in your local user group. If you have attended, please fill out [the post-conference survey](http://bgphp.polldaddy.com/s/bgphp16-survey) and you will be able to win a ticket for next year.
 
-Image copyright goes to Anna Filina, Bulgaria PHP Conference and Haralan Dobrev. Make sure you look at all the [BGPHP16 photos from Anna Filina on Flicker](https://www.flickr.com/photos/afilina/sets/72157674875917646) and all of the [awesome Tweets that everyone sent out](https://twitter.com/search?f=tweets&vertical=default&q=%23bgphp16&src=tyah)!
+Image copyright goes to Anna Filina, Bulgaria PHP Conference and Haralan Dobrev. Make sure you look at all the [BGPHP16 photos from Anna Filina on Flicker](https://www.flickr.com/photos/afilina/sets/72157674875917646), [the official BGPHP16 photos](https://www.facebook.com/Bulgaria-PHP-Conference-792916594079571/photos/?tab=album&album_id=1095239630513931) and all of the [awesome Tweets that everyone sent out](https://twitter.com/search?f=tweets&vertical=default&q=%23bgphp16&src=tyah)!
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
