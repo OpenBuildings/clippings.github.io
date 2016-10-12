@@ -10,7 +10,7 @@ The second edition of the Bulgaria PHP conference happened the last weekend and 
 
 I even even had the pleasure to give a [lightning talk on **Upgrading to PHP 7**](https://hkdobrev.com/php7-slides). You can check the slides for now (press <b><kbd>S</kbd></b> for speaker notes). We've recently gone through the migration process and we'll write a separate blog post about it explaining everything - from testing to infrastructure.
 
-<a href="https://www.flickr.com/photos/afilina/29915573690/in/album-72157674875917646/" title="Haralan Dobrev with Mihail Irintchev on stage before his lightning talk"><img src="https://c3.staticflickr.com/6/5235/29915573690_3e0abfc9d8_k.jpg" alt="Haralan Dobrev with Mihail Irintchev on stage before his lightning talk"></a>
+<a href="https://www.facebook.com/792916594079571/photos/a.1095239630513931.1073741834.792916594079571/1095243320513562/?type=3&theater" title="Haralan Dobrev with Mihail Irintchev on stage before his lightning talk"><img src="https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/14681858_1095243320513562_7978724108326021172_n.jpg?oh=230cea0d322dec21cba71b97185df5af&oe=586D4A35" alt="Haralan Dobrev with Mihail Irintchev on stage before his lightning talk"></a>
 
 The conference was really great - from the opening keynote to the closing words. Everyone really enjoyed it as you can see from what people were saying on Twitter:
 
