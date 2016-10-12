@@ -32,8 +32,9 @@ All attendees were able to play some old game classics and challenge speakers. T
 
 Videos of all talks are coming in about a month and I'm eager to watch everything I couldn't and rewatch some more.
 
-And finally here's the Clippings.com dev team at the conference:
+And finally here's the Clippings.com dev team at the conference. From left to right: Evstati, Harry, Danail, Philip and Zdravko.
 ![Clippings dev team at the conference](https://lh3.googleusercontent.com/fG6-MsCEhVrfrmVQFVe-ySY9-ayrLdb_bVqPltSaDOUZuM3sXzI_byxQupg8xzAHmfIUQituJGX-4aX7ft1LZY4wZPC0GfrGIrcREjZyGe4ArNBF9aMCHrpJpy4wtQlcVEqq6BFkLQem_lq6otql4ZBBPnpCpAc3jY2gvQh1GdO4xG4D3bs3lXZX3LXNdhtriAtcUvujwInTou2nA9ef-AfhlT0Pz5N00oQPa4BJ6S1TdvvfL7AGEs8m37bJj8qcKeZV8rCqmO2eK0VR9uC5Mphj3OdHkx4FfYZvCydIVIhwI6ryJxXuMBf1eUGgYQCWjuXDgCXazvsXvjWZ6O7BhY8c3nAbYfk_GhT4IQxHkrE25S9FFqifGw0TN6f3pdw1D9Su-NRi7qPWFg2lXearOP2IxU4ibfy5SMSYHqwhnZvlGTo9gtVjQGmzviral76nyIlqwTIwJSICgAJN4v3Yh3Lpdo3Yj6jFZII5U763EnA25h6aXkYSD3ElutDqBwYQKOMTG8I_DLCVvcK0qpGw_I53jIQGtokMSmo2pz0Bhtd_X9yM6PsxODZv4enc0e73GqjU0sYuobhdxPLmuDxZMeP88-nuNc8LkWfqaGAaKbv9pZcXMA=w2000-h1500-no)
+
 
 Sincere thanks to all of the organisers who made this even possible!
 
