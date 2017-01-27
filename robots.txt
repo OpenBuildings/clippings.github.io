@@ -4,4 +4,5 @@ User-agent: *
 {% for node in site.pages %}{% if node.noindex %}{% assign isset = true %}Disallow: {{ node.url }}
 {% endif %}{% endfor %}
 Disallow: /ldf16-guide
+Disallow: /dont-move-improve
 Sitemap: {{ site.url }}/sitemap.xml
